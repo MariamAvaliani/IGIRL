@@ -1,10 +1,47 @@
-.t1{color: hotpink;}
-.t2{color: indigo;}
-.t3{color: gold;}
-.t4{color: blueviolet;}
-.t5{color: blue;}
-.t6{color: brown;}
-.t7{color: green;}
-.t8{color: salmon;}
-.t9{color: greenyellow;}
-.t10{color: fuchsia;}
+*{
+    box-sizing: border-box;
+}
+
+#header{
+   background-color: burlywood; 
+}
+#nav{
+    background-color: beige;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#nav ul{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+#nav li{
+    float: left;
+}
+#nav ul a{
+    display: block;
+    width: 9em;
+    padding: 10 px;
+    border-left: 1px solid black;
+    text-decoration: none;
+    color: brown;
+    text-align: center;
+}
+#nav ul li:last-child a{
+    border-right: 1px solid;
+}
+#nav ul a:hover{
+    background-color: azure;
+    color: black;
+}
+#main {
+    background-color: bisque;
+    border: solid black;
+
+}
+h2{color: brown;
+
+}
+#footer{
+    color: blueviolet;
+}
