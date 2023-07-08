@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/task1"
+		},
+		{
+			"path": "../Desktop/task2"
+		},
+		{
+			"path": "../Desktop/tamu"
+		},
+		{
+			"path": "../Desktop/justme"
+		},
+		{
+			"path": "../Desktop/work"
+		},
+		{
+			"path": "../Desktop/task3"
+		},
+		{
+			"path": "../Desktop/name"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
